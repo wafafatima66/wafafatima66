@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d4/f7/ed/d4f7ed6133d151c34f3c2025d118c2ec.gif" alt="Sublime's custom image"/>
+  <img src="https://www.designerpeople.com/wp-content/uploads/2019/10/design-thinking-process.gif" alt="Sublime's custom image"/>
 </p>
 <h1 align="center">Hi 👋, I'm Fatima Amir</h1>
 <h3 align="center">A Full Stack Developer</h3>
